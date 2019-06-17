@@ -36,4 +36,9 @@ public void fun6(){
 	System.out.println("分支！");
 }
 
+public void fun7(){
+	
+	System.out.println("这是 属于万明辉的一个分支的功能！s！");
+}
+
 }
