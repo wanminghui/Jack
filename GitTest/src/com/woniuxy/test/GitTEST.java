@@ -11,4 +11,10 @@ public class GitTEST {
 		
 	}
 	
+public void function2(){
+		
+		System.out.println("第三个！");
+		
+	}
+	
 }
