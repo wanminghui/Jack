@@ -5,4 +5,10 @@ public class GitTEST {
 		System.out.println("这是一个程序，需要你来实现它！");
 	}
 
+	public void run(){
+		
+		System.out.println("hello word");
+		
+	}
+	
 }
